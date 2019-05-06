@@ -1,0 +1,3 @@
+Projeto de banco de dados relacional no SGBD PostgreSQL e com suas regras de negócio geridas internamente por constraints, triggers e procedures
+
+O banco de dados descrito apresenta uma solução para o gerenciamento de um modelo de negócio com o intuito de disponibilizar um serviço de atendimento ágil, prático e seguro para automóveis em oficinas mecânicas. Esse serviço fornece ao dono de um veículo uma interface de agendamento com uma oficina, onde é possível realizar o cadastramento de veículos, solicitação de serviços, acompanhamento de agendamentos e avaliação de atendimentos já realizados.
